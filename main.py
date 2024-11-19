@@ -1,1 +1,3 @@
 print('sdsa')
+d = 10
+print((d))
